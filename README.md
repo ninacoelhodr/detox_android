@@ -9,8 +9,7 @@ This automation requires [Node.js](https://nodejs.org/) to run.
 Install the dependencies
 
 ```sh
-$ cd detoxtest
-$ npm install 
+$ yarn
 ```
 
 ### How to run
@@ -18,6 +17,6 @@ $ npm install
 Run tests:
 ```sh
 $ detox build --configuration android
-$ npm run start
+$ yarn start
 $detox test --configuration android
 ```
