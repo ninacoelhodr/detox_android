@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "detoxtest",
+    "slug": "detoxtest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "detoxtest"
+}
